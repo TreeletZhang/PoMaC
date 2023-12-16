@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/agents/AttentionCritic.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/agents/attention.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/agents/dgn.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/multiagent/scenarios/Predator-prey-3v3.py" charset="GBK" />
+  </component>
+</project>
